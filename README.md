@@ -34,7 +34,7 @@ Automated UI tests for Cleartrip.com covering:
 ## Run all tests using
  -npx playwright test
 
-## To Open reposrts
+## To Open reports
 - npx playwright show-report / npx playwright show-report reports
 
 
