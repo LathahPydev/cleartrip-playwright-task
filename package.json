@@ -1,0 +1,12 @@
+{
+  "name": "playwright-automation",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Playwright automation project for Cleartrip.com",
+  "scripts": {
+    "test": "npx playwright test"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.54.1"
+  }
+}
