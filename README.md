@@ -32,8 +32,10 @@ Automated UI tests for Cleartrip.com covering:
 - **Git/GitHub** for version control
 
 ## Run all tests using
- npx playwright test
-npx playwright show-report / npx playwright show-report reports
+ -npx playwright test
+
+## To Open reposrts
+- npx playwright show-report / npx playwright show-report reports
 
 
 
